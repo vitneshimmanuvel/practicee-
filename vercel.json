@@ -3,7 +3,8 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/index.html"
+      "destination": "/index.html",
+      "summary": "Rewrite all routes to index.html"
     }
   ]
 }
