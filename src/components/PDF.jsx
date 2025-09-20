@@ -402,6 +402,10 @@ const InvoiceDesign = ({ invoiceData, onClose }) => {
             </div>
           </div>
 
+
+          <div/>    
+          
+
           <div className="invoice-body">
             <div className="section">
               <div className="section-title">Client Information</div>
